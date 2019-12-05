@@ -1,6 +1,7 @@
 python-cryptography (2.6.1-4ubuntu1) UNRELEASED; urgency=medium
 
   * d/gbp.conf: Update gbp configuration file.
+  * d/control: Update Vcs-* links and maintainers.
 
  -- Corey Bryant <corey.bryant@canonical.com>  Thu, 05 Dec 2019 15:25:36 -0500
 
